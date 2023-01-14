@@ -14,7 +14,7 @@ public class Main {
         return str1;
     } 
     public static void main(String[] args) {
-       String[] str = {"Mert", "Ozan", "Fatih"};
+       String[] str = {"Ali", "Hasan", "Hüseyin"};
         System.out.println(Arrays.toString(tersCevir(str)));
     }
 
