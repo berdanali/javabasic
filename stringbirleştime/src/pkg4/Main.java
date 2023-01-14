@@ -20,7 +20,7 @@ public class Main {
     }
     public static void main(String[] args) {
           String[] str1 = {"Ben7im ", "adim "};
-        String[] str2 = {"Fatih ", "Altuntas"};
+        String[] str2 = {"Berdan ", "Ali"};
 
         System.out.println(birlestir(str1, str2));
         
